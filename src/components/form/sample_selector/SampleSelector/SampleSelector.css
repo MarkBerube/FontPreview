@@ -1,0 +1,10 @@
+.SampleSelector {
+    grid-column-start: 2;
+    grid-row-start: 3;
+    align-self: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    align-items: center;
+    margin-left: 50px;
+}

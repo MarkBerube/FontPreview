@@ -1,0 +1,11 @@
+.Sample {
+    grid-column-start: 2;
+    grid-row-start: 2;
+    text-align: center;
+    align-self: end;
+}
+
+.Sample > img {
+    height: auto;
+    max-height: 250px;
+}
