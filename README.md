@@ -4,8 +4,8 @@ Preview fonts using MyFonts' font sample API & ReactJS
 
 ### Prerequisites
 
-* Install [git](https://git-scm.com/downloads)
-* Install [NodeJS](https://nodejs.org/en/)
+* [git](https://git-scm.com/downloads)
+* [NodeJS](https://nodejs.org/en/)
 
 ### Installing
 
@@ -28,6 +28,7 @@ npm run build
 #### Prebuilt install
 
 1: Git clone the gh-pages branch
+
 2: Upload the whole directory to your web server.
 
 ## Testing
@@ -41,7 +42,3 @@ npm run tests
 
 * [ReactJS](https://reactjs.org)
 * [Jest](http://jestjs.io/)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
