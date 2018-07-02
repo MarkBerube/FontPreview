@@ -1,7 +1,0 @@
-.ColorSelector {
-    display: grid;
-    grid-template-columns: repeat(8, 1fr);
-    width: 45%;
-    margin: auto;
-    padding: 10px;
-}
