@@ -1,4 +1,4 @@
-# FontPreview
+# [FontPreview](https://markberube.github.io/FontPreview/)
 
 Preview fonts using MyFonts' font sample API & ReactJS
 
