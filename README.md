@@ -12,14 +12,17 @@ Preview fonts using MyFonts' font sample API & ReactJS
 #### Manual install (recommended)
 
 1: Git clone the master branch.
+
 2: Go to the directory and run NPM install via command line:
 ```
 npm install
 ```
+
 3: Build the code
 ```
 npm run build
 ```
+
 4: Upload the `dist` directory to your web server.
 
 #### Prebuilt install
