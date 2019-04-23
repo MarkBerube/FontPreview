@@ -18,13 +18,13 @@
     "lint_fix": "./node_modules/.bin/eslint ./src/ --fix"
   },
   "devDependencies": {
-    "eslint": "^5.0.1",
+    "eslint": "^5.16.0",
     "eslint-config-standard": "^11.0.0",
-    "eslint-plugin-import": "^2.13.0",
-    "eslint-plugin-jest": "^21.17.0",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-jest": "^21.27.2",
     "eslint-plugin-node": "^6.0.1",
     "eslint-plugin-promise": "^3.8.0",
-    "eslint-plugin-react": "^7.10.0",
+    "eslint-plugin-react": "^7.12.4",
     "eslint-plugin-standard": "^3.1.0",
     "gh-pages": "^1.2.0"
   }
