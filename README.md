@@ -35,7 +35,7 @@ npm run build
 
 Unit tests are available on every component and can be executed using the following:
 ```
-npm run tests
+npm run test
 ```
 
 ## Built With
